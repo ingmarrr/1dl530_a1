@@ -1,0 +1,50 @@
+Iteration 0: -17220292
+Iteration 1: 4088799
+Iteration 2: 8318358
+Iteration 3: 1593223
+Iteration 4: -8839667
+Iteration 5: 705514
+Iteration 6: 2991013
+Iteration 7: 3504153
+Iteration 8: -468797
+Iteration 9: 411646
+Iteration 10: -3650815Usage: ./bin/performance T N
+
+  T: number of threads
+  N: array size in MB
+
+
+Usage: ./bin/performance T N
+
+  T: number of threads
+  N: array size in MB
+
+
+Usage: ./bin/performance T N
+
+  T: number of threads
+  N: array size in MB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

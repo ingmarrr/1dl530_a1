@@ -1,0 +1,41 @@
+Iteration 1 [Threads: 1, Mb: 1]: 0.912165
+Iteration 2 [Threads: 1, Mb: 2]: 1.8258
+Iteration 3 [Threads: 1, Mb: 4]: 3.65364
+Iteration 4 [Threads: 1, Mb: 8]: 7.29793
+Iteration 5 [Threads: 1, Mb: 16]: 14.5999
+Iteration 6 [Threads: 1, Mb: 32]: 29.2227
+
+Iteration 7 [Threads: 2, Mb: 1]: 0.457135
+Iteration 8 [Threads: 2, Mb: 2]: 0.913867
+Iteration 9 [Threads: 2, Mb: 4]: 1.82632
+Iteration 10 [Threads: 2, Mb: 8]: 3.66191
+Iteration 11 [Threads: 2, Mb: 16]: 7.31792
+Iteration 12 [Threads: 2, Mb: 32]: 14.6325
+
+Iteration 13 [Threads: 4, Mb: 1]: 0.229724
+Iteration 14 [Threads: 4, Mb: 2]: 0.459156
+Iteration 15 [Threads: 4, Mb: 4]: 0.917836
+Iteration 16 [Threads: 4, Mb: 8]: 1.83517
+Iteration 17 [Threads: 4, Mb: 16]: 3.67492
+Iteration 18 [Threads: 4, Mb: 32]: 7.34364
+
+Iteration 19 [Threads: 8, Mb: 1]: 0.115986
+Iteration 20 [Threads: 8, Mb: 2]: 0.231338
+Iteration 21 [Threads: 8, Mb: 4]: 0.462175
+Iteration 22 [Threads: 8, Mb: 8]: 0.923723
+Iteration 23 [Threads: 8, Mb: 16]: 1.85136
+Iteration 24 [Threads: 8, Mb: 32]: 3.70318
+
+Iteration 25 [Threads: 16, Mb: 1]: 0.0604099
+Iteration 26 [Threads: 16, Mb: 2]: 0.120605
+Iteration 27 [Threads: 16, Mb: 4]: 0.240856
+Iteration 28 [Threads: 16, Mb: 8]: 0.481124
+Iteration 29 [Threads: 16, Mb: 16]: 0.961561
+Iteration 30 [Threads: 16, Mb: 32]: 1.92684
+
+Iteration 31 [Threads: 32, Mb: 1]: 0.0589148
+Iteration 32 [Threads: 32, Mb: 2]: 0.105353
+Iteration 33 [Threads: 32, Mb: 4]: 0.19855
+Iteration 34 [Threads: 32, Mb: 8]: 0.386292
+Iteration 35 [Threads: 32, Mb: 16]: 0.743698
+Iteration 36 [Threads: 32, Mb: 32]: 1.39348
