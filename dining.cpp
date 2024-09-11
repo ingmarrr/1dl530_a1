@@ -1,38 +1,49 @@
 #include <iostream>
+#include <fstream>
 #include <thread>
 #include <mutex>
 
 std::mutex out;
+std::mutex waiter;
+std::ofstream outfile ("test.txt");
 
 void philosopher(int n, std::mutex *left, std::mutex *right)
 {
   while (true)
     {
+      waiter.lock();
       out.lock();
       std::cout << "Philosopher " << n << " is thinking." << std::endl;
+      outfile << "Philosopher " << n << " is thinking." << std::endl;
       out.unlock();
 
       left->lock();
       out.lock();
       std::cout << "Philosopher " << n << " picked up her left fork." << std::endl;
+      outfile << "Philosopher " << n << " picked up her left fork." << std::endl;
       out.unlock();
 
       right->lock();
       out.lock();
       std::cout << "Philosopher " << n << " picked up her right fork." << std::endl;
+      outfile << "Philosopher " << n << " picked up her right fork." << std::endl;
       out.unlock();
 
       out.lock();
       std::cout << "Philosopher " << n << " is eating." << std::endl;
+      outfile << "Philosopher " << n << " is eating." << std::endl;
       out.unlock();
+      waiter.unlock();
 
       out.lock();
       std::cout << "Philosopher " << n << " is putting down her right fork." << std::endl;
+      outfile << "Philosopher " << n << " is putting down her right fork." << std::endl;
       out.unlock();
       right->unlock();
 
       out.lock();
       std::cout << "Philosopher " << n << " is putting down her left fork." << std::endl;
+      outfile << "Philosopher " << n << " is putting down her left fork." << std::endl;
       out.unlock();
       left->unlock();
     }
@@ -81,6 +92,10 @@ int main(int argc, char *argv[])
   ph[0].join();
   delete[] forks;
   delete[] ph;
+
+  
+
+outfile.close();
 
   return 0;
 }

@@ -1,0 +1,1491 @@
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
+Philosopher 2 is eating.
+Philosopher 2 is putting down her right fork.
+Philosopher 2 is putting down her left fork.
+Philosopher 1 is thinking.
+Philosopher 1 picked up her left fork.
+Philosopher 1 picked up her right fork.
+Philosopher 1 is eating.
+Philosopher 1 is putting down her right fork.
+Philosopher 1 is putting down her left fork.
+Philosopher 0 is thinking.
+Philosopher 0 picked up her left fork.
+Philosopher 0 picked up her right fork.
+Philosopher 0 is eating.
+Philosopher 0 is putting down her right fork.
+Philosopher 0 is putting down her left fork.
+Philosopher 2 is thinking.
+Philosopher 2 picked up her left fork.
+Philosopher 2 picked up her right fork.
